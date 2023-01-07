@@ -102,18 +102,18 @@ class LoginForm extends Component {
     return (
       <div className="login-form-container">
         <img
-          src="https://assets.ccbp.in/frontend/react-js/nxt-trendz-logo-img.png"
+          src="https://1000logos.net/wp-content/uploads/2021/02/Flipkart-logo.png"
           className="login-website-logo-mobile-img"
           alt="website logo"
         />
         <img
-          src="https://assets.ccbp.in/frontend/react-js/nxt-trendz-login-img.png"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAvlAeFNb4uyx-RBGTDjDDe9au2FyKFrFp2A&usqp=CAU"
           className="login-img"
           alt="website login"
         />
         <form className="form-container" onSubmit={this.submitForm}>
           <img
-            src="https://assets.ccbp.in/frontend/react-js/nxt-trendz-logo-img.png"
+            src="https://1000logos.net/wp-content/uploads/2021/02/Flipkart-logo.png"
             className="login-website-logo-desktop-img"
             alt="website logo"
           />

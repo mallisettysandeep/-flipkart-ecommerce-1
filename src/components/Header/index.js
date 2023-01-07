@@ -37,7 +37,7 @@ const Header = props => {
           <Link to="/">
             <img
               className="website-logo"
-              src="https://assets.ccbp.in/frontend/react-js/nxt-trendz-logo-img.png"
+              src="https://1000logos.net/wp-content/uploads/2021/02/Flipkart-logo.png"
               alt="website logo"
             />
           </Link>
@@ -59,7 +59,7 @@ const Header = props => {
           <Link to="/">
             <img
               className="website-logo"
-              src="https://assets.ccbp.in/frontend/react-js/nxt-trendz-logo-img.png"
+              src="https://1000logos.net/wp-content/uploads/2021/02/Flipkart-logo.png"
               alt="website logo"
             />
           </Link>
