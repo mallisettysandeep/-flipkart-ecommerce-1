@@ -1,4 +1,4 @@
-In this project,FLIPKART-ecommerce
+this project,FLIPKART-ecommerce
 
 ### Design Files
 
